@@ -1,5 +1,4 @@
-# Student_Management_System
-Title: Python Student Management System with Tkinter and MySQL
+# Student Management System with Python, Tkinter and MySQL
 
 The Python Student Management System is a robust and user-friendly application designed to streamline the process of managing student data in educational institutions such as schools or colleges. Developed using Python programming language, along with Tkinter for the graphical user interface (GUI) and MySQL database for efficient data storage and retrieval, this system offers comprehensive functionalities for adding, updating, deleting, and displaying student information.
 

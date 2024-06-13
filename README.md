@@ -1,3 +1,4 @@
+![Screenshot (33)](https://github.com/tanish-12/Student_Management_System/assets/97330284/53e7446a-94fd-44f5-be26-6c05bf82d592)
 ### Project Overview: Student Management System
 
 #### Introduction:
@@ -30,5 +31,5 @@ The Student Management System is a comprehensive software solution designed to s
 #### Conclusion:
 The Student Management System offers a robust solution for educational institutions to efficiently manage student information, automate administrative tasks, and ensure data accuracy and integrity. With its intuitive interface, seamless database integration, and comprehensive functionality, it serves as an indispensable tool for streamlining student data management processes.
 
-![Screenshot (33)](https://github.com/tanish-12/Student_Management_System/assets/97330284/53e7446a-94fd-44f5-be26-6c05bf82d592)
+
 
